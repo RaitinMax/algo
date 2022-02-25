@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MergeSorting/MergeSorting.iml" filepath="$PROJECT_DIR$/MergeSorting/MergeSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Puppy/Puppy.iml" filepath="$PROJECT_DIR$/Puppy/Puppy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algo.iml" filepath="$PROJECT_DIR$/algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mergeSortingByRaitin/mergeSortingByRaitin.iml" filepath="$PROJECT_DIR$/mergeSortingByRaitin/mergeSortingByRaitin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursiveFactorial/recursiveFactorial.iml" filepath="$PROJECT_DIR$/recursiveFactorial/recursiveFactorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tryMyMerge/tryMyMerge.iml" filepath="$PROJECT_DIR$/tryMyMerge/tryMyMerge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tryoOtherMergeArray/tryoOtherMergeArray.iml" filepath="$PROJECT_DIR$/tryoOtherMergeArray/tryoOtherMergeArray.iml" />
+    </modules>
+  </component>
+</project>
